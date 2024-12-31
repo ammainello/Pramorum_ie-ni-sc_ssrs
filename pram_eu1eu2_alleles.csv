@@ -1,3 +1,5 @@
+﻿"Allele calls for P. ramorum isolates from Ireland, Northern Ireland, and Scotland sorted by multilocus genotype (MLG), and for the NA1, NA2, EU1, and EU2 standards and references used for isolate classification. Grey boxes indicate allele calls that differ from the EU1MG1 or EU2MG1 MLGs. ",,,,,,,
+Isolate,MLG or type of isolate,KI18,KI64,KI82ab,PrMS43,ILVOPrMS145a,ILVOPrMS145c
 10X_4,EU1MG1,221/265,355/402,132/143/115/243,149/149,172/203,188/250
 11X_10,EU1MG1,221/265,355/402,132/143/115/243,149/149,172/203,188/250
 11X_11,EU1MG1,221/265,355/402,132/143/115/243,149/149,172/203,188/250
